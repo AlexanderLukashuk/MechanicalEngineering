@@ -1,4 +1,5 @@
 ﻿using System;
+using mechanicalEngineering.Models;
 
 namespace MechanicalEngineering
 {
@@ -6,7 +7,10 @@ namespace MechanicalEngineering
     {
         static void Main(string[] args)
         {
-            
+            Engineer engineer = new Engineer();
+            CarBuilder carBuilder = new Pickup();
+            var pickup = engineer.MekeCar(carBuilder);
+            Console.Write(pickup.ToString());
         }
     }
 }

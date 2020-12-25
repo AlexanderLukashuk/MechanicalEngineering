@@ -1,0 +1,12 @@
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/bin/Debug/netcoreapp3.1/MechanicalEngineering.deps.json
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/bin/Debug/netcoreapp3.1/MechanicalEngineering.runtimeconfig.json
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/bin/Debug/netcoreapp3.1/MechanicalEngineering.runtimeconfig.dev.json
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/bin/Debug/netcoreapp3.1/MechanicalEngineering.dll
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/bin/Debug/netcoreapp3.1/MechanicalEngineering.pdb
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/obj/Debug/netcoreapp3.1/MechanicalEngineering.csprojAssemblyReference.cache
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/obj/Debug/netcoreapp3.1/MechanicalEngineering.AssemblyInfoInputs.cache
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/obj/Debug/netcoreapp3.1/MechanicalEngineering.AssemblyInfo.cs
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/obj/Debug/netcoreapp3.1/MechanicalEngineering.csproj.CoreCompileInputs.cache
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/obj/Debug/netcoreapp3.1/MechanicalEngineering.dll
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/obj/Debug/netcoreapp3.1/MechanicalEngineering.pdb
+/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/obj/Debug/netcoreapp3.1/MechanicalEngineering.genruntimeconfig.cache

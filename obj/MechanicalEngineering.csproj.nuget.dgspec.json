@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sanya/paternsCsharp_study/homework/MechanicalEngineering/MechanicalEngineering.csproj": {}
+    "/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/MechanicalEngineering.csproj": {}
   },
   "projects": {
-    "/Users/sanya/paternsCsharp_study/homework/MechanicalEngineering/MechanicalEngineering.csproj": {
+    "/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/MechanicalEngineering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sanya/paternsCsharp_study/homework/MechanicalEngineering/MechanicalEngineering.csproj",
+        "projectUniqueName": "/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/MechanicalEngineering.csproj",
         "projectName": "MechanicalEngineering",
-        "projectPath": "/Users/sanya/paternsCsharp_study/homework/MechanicalEngineering/MechanicalEngineering.csproj",
+        "projectPath": "/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/MechanicalEngineering.csproj",
         "packagesPath": "/Users/sanya/.nuget/packages/",
-        "outputPath": "/Users/sanya/paternsCsharp_study/homework/MechanicalEngineering/obj/",
+        "outputPath": "/Users/sanya/paternsCsharp_study/homework/mechanicalEngineering/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
